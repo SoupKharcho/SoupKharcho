@@ -1,5 +1,5 @@
 Hi, I’m @SoupKharcho
-- 👀 I’m interested in developing games using the C# language.
+- 👀 i make bots in telegram
 - 🌱  I'm currently at the initial stage of my studies
 - 💞️ I am ready to cooperate with everyone.
 - 📫  How to reach me: telegram(@GOSSOUP). Unfortunately, due to my predicament, I don't have a discord.
